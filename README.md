@@ -33,6 +33,4 @@ Uses if-elif, functions, and loops
 
 Simple console interaction
 
-👉 You can also add a common footer like:
-
 🔹 These projects are part of my Python Programming Internship at CodeAlpha.
